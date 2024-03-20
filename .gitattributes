@@ -1,0 +1,2 @@
+D:/BLTM/fall_detect/FallDetect/ultralytics/yolov8x-pose-p6.pt filter=lfs diff=lfs merge=lfs -text
+D:/BLTM/fall_detect/FallDetect/ultralytics/yolov8x-pose.pt filter=lfs diff=lfs merge=lfs -text
